@@ -1,0 +1,8 @@
+Requisito: XAMPP
+
+Insrire tuttii i file (escluso il readme) nella cartella htdocs di xampp
+Testare su postman con i seguenti endpoint:
+(POST) http://localhost/register.php
+(POST) http://localhost/login.php
+(GET) http://localhost/login.php
+(POST) http://localhost/logout.php
